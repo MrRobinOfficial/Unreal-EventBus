@@ -3,17 +3,21 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "Event Bus",
-	"Description": "The Event Subsystem facilitates event-based communication within the game. It helps in reducing dependencies and preventing spaghetti code, enabling a more modular and maintainable architecture.",
+	"Description": "The Event Subsystem is an event-based communication within the game. It enables a more modular and maintainable architecture.",
 	"Category": "Gameplay",
-	"CreatedBy": "https://github.com/MrRobinOfficial",
-	"CreatedByURL": "",
-	"DocsURL": "",
+	"CreatedBy": "MrRobinOfficial",
+	"CreatedByURL": "https://github.com/MrRobinOfficial",
+	"DocsURL": "https://github.com/MrRobinOfficial/Unreal-EventBus",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://github.com/MrRobinOfficial/Unreal-EventBus/issues",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
+	"EngineVersion": "5.4.2",
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
 	"Modules": [
 		{
 			"Name": "EventBus",
