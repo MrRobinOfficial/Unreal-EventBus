@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Event Bus",
+	"Description": "The Event Subsystem facilitates event-based communication within the game. It helps in reducing dependencies and preventing spaghetti code, enabling a more modular and maintainable architecture.",
+	"Category": "Gameplay",
+	"CreatedBy": "https://github.com/MrRobinOfficial",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EventBus",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
