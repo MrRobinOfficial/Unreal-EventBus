@@ -14,7 +14,7 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"EngineVersion": "5.4.2",
+	"EngineVersion": "5.4",
 	"SupportedTargetPlatforms": [
 		"Win64"
 	],
