@@ -59,9 +59,7 @@ void OnPlayerDied(UObject* Payload) { }
 
 ### Unregistering events
 
-### Registering events
-
-### With specific callback
+#### With specific callback
 
 ```cpp
 UEventSubsystem* EventSubsystem = ...;
@@ -75,7 +73,7 @@ UFUNCTION()
 void OnPlayerDied(UObject* Payload) { }
 ```
 
-### Unregistering all events
+#### Unregistering all events
 
 ```cpp
 UEventSubsystem* EventSubsystem = ...;
