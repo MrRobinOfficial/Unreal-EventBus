@@ -77,7 +77,7 @@ void OnPlayerDied(UObject* Payload) { }
 
 ```cpp
 UEventSubsystem* EventSubsystem = ...;
-EventSubsystem->UnregisterAllEvents(TEXT("player_died"), Delegate);
+EventSubsystem->UnregisterAllEvents(TEXT("player_died"));
 ```
 
 ### Invoking events
